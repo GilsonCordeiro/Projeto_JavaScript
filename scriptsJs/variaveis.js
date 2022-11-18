@@ -21,3 +21,6 @@ let carro = "Fusca"
 const Fruta = "Banana" //é diferente de 
 
 const fruta = "Maçã"
+
+// Verificar o tipo da variável
+console.log(typeof fruta)
