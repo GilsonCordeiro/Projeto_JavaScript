@@ -39,3 +39,17 @@ console.log(maky)
 
 let date = new Date("2020-02-04")
 console.log(date)
+
+// Manipulacao String em numeros
+// transformacao de string e numeros
+let string = "123"
+console.log(Number(string))
+let number = 321
+console.log(String(number))
+
+// Contar qtos caracteres tem a palavra
+let word = "Paralelepipedo"
+console.log(word.length)
+
+let num = 12345
+console.log(String(num).length)
